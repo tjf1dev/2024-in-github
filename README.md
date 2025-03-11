@@ -10,7 +10,8 @@ pip install -r requirements.txt
 python3 bot.py # depends on your platform, use 'py' in windows instead
 ```
 2. enter information you are asked for
-![example of running script](replace image once pushed to gh)
+![example of working script](https://github.com/user-attachments/assets/972960cf-6d6f-432e-9115-6d004e53bd04)
+
 
 3. wait for the bot to finish
 4. done!
